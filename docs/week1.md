@@ -6,3 +6,4 @@ So excited to welcome you all back. In person! Today, we'll meet as a group to..
 
 __Homework__
 - Join the class Discord server ([link]()) and the MICA Game Lab Discord server([link]()). Set your server nickname to what you want to be called in class and then say hello!
+- Post X
