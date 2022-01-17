@@ -19,7 +19,13 @@ for players.
 - Communicate & present game designs from concept to finished form.
 
 ### Software Versions
-- Unity 2021.2.8
+- Class materials developed using Unity 2021.2.8 or above
+
+## Class Example Repository
+- Github repository is [here]()
+
+## Demo Videos
+- YouTube playlist is [here](https://youtube.com/playlist?list=PL42xm44H83rJTvr5U8zecReQ1Sq9qYtll)
 
 ## Weekly Class Notes
 - Week 1 (01/18):
