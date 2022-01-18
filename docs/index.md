@@ -18,11 +18,14 @@ for players.
 - Analyze & critically discuss the level design of commercial & independent video games.
 - Communicate & present game designs from concept to finished form.
 
+### Class Syllabus
+- PDF is [here](https://docs.google.com/document/d/132CrDZhnPa9t9ApqyYeD_FbvqzooSSl86dvlHDPi5S8/edit?usp=sharing)
+
 ### Software Versions
 - Class materials developed using Unity 2021.2.8 or above
 
 ## Class Example Repository
-- Github repository is [here]()
+- Github repository is [here](https://github.com/samsheffield/Level_Design/tree/Spring_22/Class%20examples)
 
 ## Demo Videos
 - YouTube playlist is [here](https://youtube.com/playlist?list=PL42xm44H83rJTvr5U8zecReQ1Sq9qYtll)
