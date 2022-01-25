@@ -33,5 +33,7 @@ for players.
 ## Weekly Class Notes
 - Week 1 (01/18):
   - [Welcome, Class Overview, Q&A](week1.md)
+- Week 2 (01/25):
+  - [What is a level?](week2.md)
 
 
