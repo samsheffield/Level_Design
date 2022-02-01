@@ -35,5 +35,7 @@ for players.
   - [Welcome, Class Overview, Q&A](week1.md)
 - Week 2 (01/25):
   - [What is a level?](week2.md)
+- Week 3 (02/01):
+  - [Work session](week3.md)
 
 

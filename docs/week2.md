@@ -38,7 +38,7 @@ It's that time again! Maybe warm up for the semester with a little project this 
 - Head over to the MICA Game Lab Discord if you're looking to join a team!
 - More info and register [here](https://globalgamejam.org/2022/jam-sites/mica-game-lab)
 
-## Level Construction Kit (Due 01/08)
+## Level Construction Kit (Due 02/08)
 As preparation for your level design work, you will need to build yourself a level construction set. This kit will provide the framework for your work this semester that you can add to, remix, or combine with others when collaborating.
 
 You will need to create:
@@ -63,7 +63,7 @@ You will need to create:
 ### Some Guidance
 These don't need to be the most interesting or precious combinations of things. They just need to be a starting point for us to do some work together. The more you view them as placeholders, the easier it will be to update/change/replace them as needed. But also don't make them so generic that you can't develop some meaningful relationships between them. *You're really threading a needle with this one!*
 
-#### This is due in two weeks (01/08)
+#### This is due in two weeks (02/08)
 A test scene in Unity that demonstrates that all of the above work correctly. Not a game.
 
 #### This is due next week if you don't do the GGJ
