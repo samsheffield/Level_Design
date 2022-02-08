@@ -37,5 +37,5 @@ for players.
   - [What is a level?](week2.md)
 - Week 3 (02/01):
   - [Work session](week3.md)
-
-
+- Week 4 (02/08):
+  - [Affordances and Level planning](week4.md)
