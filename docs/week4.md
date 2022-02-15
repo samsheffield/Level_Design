@@ -33,7 +33,7 @@ Using your construction kit, design a level where the player must reach an objec
 ## Upload This Week's Homework
 Haven't uploaded the build of your construction kit to your class Drive folder yet? Do it this week for full credit.
 
-## Prototype 1: Complete Week 1 Goals (Due 02/08) 
+## Prototype 1: Complete Week 1 Goals (Due 02/15) 
 Create a pre-production design document which collects your pre-production and layout work and upload to your Google Drive folder by the start of class next week. _See full project description above for list pre-production and layout goals._
 
 __Do not do any pre-production or layout work in Unity this week.__

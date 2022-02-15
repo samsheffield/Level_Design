@@ -39,3 +39,5 @@ for players.
   - [Work session](week3.md)
 - Week 4 (02/08):
   - [Affordances and Level planning](week4.md)
+- Week 5 (02/15):
+  - [Layout: Greyboxing & Blockouts](week5.md)
