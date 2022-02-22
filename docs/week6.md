@@ -48,8 +48,8 @@ Have a small number of questions to ask your playtesters after they finish. If n
 
 [Google Forms](https://www.google.com/forms/about/) is pretty good for this and easy to set up. 
 
-### Evaluate your playtets
-Don't forget to assess you playtets and determine how to move forward:
+### Evaluate your playtest
+Don't forget to assess your playtest and determine how to move forward:
 - What was successful and how can you amplify this?
 - What can you actually fix?
 - What should be removed because it doen't work and can't be fixed?
