@@ -41,3 +41,5 @@ for players.
   - [Affordances and Level planning](week4.md)
 - Week 5 (02/15):
   - [Layout: Greyboxing & Blockouts](week5.md)
+- Week 6 (02/22):
+  - [Playtest Blockouts](week6.md)
