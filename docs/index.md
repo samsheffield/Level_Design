@@ -43,3 +43,5 @@ for players.
   - [Layout: Greyboxing & Blockouts](week5.md)
 - Week 6 (02/22):
   - [Playtest Blockouts](week6.md)
+- Week 7 (02/28):
+  - [Playtest Completed Levels](week7.md)
