@@ -57,7 +57,7 @@ Organize all work related to Prototype 1 in your Google Drive folder:
     - Planning docs & floor plans (prototyping week 1)
     - First pass at greyboxing/blocking out (prototyping week 2)
 - Make a __Builds__ folder with:
-    - Finished prototype builds which you shared this week (if you didn't have buulds ready for this evening it is considered late, so have this uploaded ASAP)
+    - Finished prototype builds which you shared this week (if you didn't have builds ready for this evening it is considered late, so have this uploaded ASAP)
 
 ### One additional thing to add to your Planning folder:
 - Create a text document which describes...
