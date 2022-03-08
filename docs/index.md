@@ -45,3 +45,5 @@ for players.
   - [Playtest Blockouts](week6.md)
 - Week 7 (02/28):
   - [Playtest Completed Levels](week7.md)
+- Week 8 (03/08):
+  - [Wayfinding](week8.md)
