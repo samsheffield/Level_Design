@@ -47,3 +47,5 @@ for players.
   - [Playtest Completed Levels](week7.md)
 - Week 8 (03/08):
   - [Wayfinding](week8.md)
+- Week 9 (03/22):
+  - [Environmental Storytelling](week9.md)
