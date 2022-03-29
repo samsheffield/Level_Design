@@ -5,7 +5,7 @@ Today, we'll meet as a group to...
 - Work session
 
 ## Pre-production and Planning Share Session
-Break into small groups (max 4 people) to share & discuss the level concepts & floorplans you developed for homework. In particular, focus on how these plans 
+Break into small groups (max 4 people) to share & discuss the level concepts & floorplans you developed for homework. In particular, focus on how these plans relate to your player experience goals.
 
 _You do not need to discuss every parti and bubble diagram you made, just focus on where you ended up._
 
