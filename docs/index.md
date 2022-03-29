@@ -38,14 +38,16 @@ for players.
 - Week 3 (02/01):
   - [Work session](week3.md)
 - Week 4 (02/08):
-  - [Affordances and Level planning](week4.md)
+  - [Affordances and level planning](week4.md)
 - Week 5 (02/15):
-  - [Layout: Greyboxing & Blockouts](week5.md)
+  - [Layout: Greyboxing & blockouts](week5.md)
 - Week 6 (02/22):
-  - [Playtest Blockouts](week6.md)
+  - [Playtest blockouts](week6.md)
 - Week 7 (02/28):
-  - [Playtest Completed Levels](week7.md)
+  - [Playtest completed levels](week7.md)
 - Week 8 (03/08):
   - [Wayfinding](week8.md)
 - Week 9 (03/22):
-  - [Environmental Storytelling](week9.md)
+  - [Environmental storytelling](week9.md)
+- Week 10 (03/29):
+  - [Denial spaces, gating, and pacing](week10.md)
