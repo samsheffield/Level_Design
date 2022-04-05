@@ -51,3 +51,5 @@ for players.
   - [Environmental storytelling](week9.md)
 - Week 10 (03/29):
   - [Denial spaces, gating, and pacing](week10.md)
+- Week 11 (04/05):
+  - [Playtest narrative levels](week11.md)
