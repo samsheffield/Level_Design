@@ -53,3 +53,5 @@ for players.
   - [Denial spaces, gating, and pacing](week10.md)
 - Week 11 (04/05):
   - [Playtest narrative levels](week11.md)
+- Week 12 (04/12):
+  - [Puzzles in games](week12.md)
