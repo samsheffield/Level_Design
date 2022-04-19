@@ -55,3 +55,5 @@ for players.
   - [Playtest narrative levels](week11.md)
 - Week 12 (04/12):
   - [Puzzles in games](week12.md)
+- Week 13 (04/19):
+  - [Difficulty & ASsessment](week13.md)
