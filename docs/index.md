@@ -57,3 +57,5 @@ for players.
   - [Puzzles in games](week12.md)
 - Week 13 (04/19):
   - [Difficulty & Assessment](week13.md)
+- Week 14 (04/26):
+  - [Work session & meetings](week14.md)
