@@ -59,3 +59,5 @@ for players.
   - [Difficulty & Assessment](week13.md)
 - Week 14 (04/26):
   - [Work session & meetings](week14.md)
+- Week 15 (05/03):
+  - [Playtest puzzle levels](week15.md)
